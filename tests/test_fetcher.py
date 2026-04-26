@@ -10,10 +10,17 @@ from scraper.fetcher import fetch_page
 
 
 class _Response:
-    def __init__(self, status_code: int, text: str = "<html></html>", headers=None):
+    def __init__(
+        self,
+        status_code: int,
+        text: str = "<html></html>",
+        headers=None,
+        url: str = "https://www.gsmarena.com/page",
+    ):
         self.status_code = status_code
         self.text = text
         self.headers = headers or {}
+        self.url = url
 
     def raise_for_status(self) -> None:
         if self.status_code >= 400:
@@ -54,3 +61,23 @@ def test_fetch_page_returns_none_on_persistent_failure():
     ), patch("config.MAX_RETRIES", 2):
         html = fetch_page("https://example.com", session=session)
     assert html is None
+
+
+def test_fetch_page_retries_on_mobile_redirect():
+    """A 200 response that landed on m.gsmarena.com must trigger a UA-rotation retry."""
+    session = MagicMock()
+    session.headers = {}
+    session.get.side_effect = [
+        _Response(
+            200, "<html>mobile</html>", url="https://m.gsmarena.com/samsung-phones-9.php"
+        ),
+        _Response(
+            200, "<html>desktop</html>", url="https://www.gsmarena.com/samsung-phones-9.php"
+        ),
+    ]
+    with patch("scraper.fetcher._polite_sleep", lambda: None), patch(
+        "scraper.fetcher.time.sleep", lambda *_: None
+    ):
+        html = fetch_page("https://www.gsmarena.com/samsung-phones-9.php", session=session)
+    assert html == "<html>desktop</html>"
+    assert session.get.call_count == 2

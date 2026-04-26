@@ -26,27 +26,32 @@ import config
 log = logging.getLogger(__name__)
 
 
-def _user_agent() -> str:
-    """Return a random User-Agent.
+_DESKTOP_FALLBACK_UAS = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2) AppleWebKit/605.1.15 "
+    "(KHTML, like Gecko) Version/17.2 Safari/605.1.15",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+)
 
-    ``fake-useragent`` reaches out to a remote dataset; if that lookup fails
-    we fall back to a small built-in pool so the scraper still runs offline
-    (e.g. in CI).
+
+def _user_agent() -> str:
+    """Return a random *desktop* User-Agent.
+
+    GSMArena 302-redirects requests with mobile UAs to ``m.gsmarena.com``,
+    whose HTML structure isn't what our parser expects, so we deliberately
+    restrict the rotation pool to desktop platforms. ``fake-useragent`` is
+    still used when available for natural variety; we fall back to a small
+    built-in desktop pool when the dataset isn't reachable (e.g. CI).
     """
     try:
         from fake_useragent import UserAgent
 
-        return UserAgent().random
+        ua = UserAgent(platforms=["pc"], os=["Windows", "Mac OS X", "Linux"])
+        return ua.random
     except Exception:  # pragma: no cover - exercised only when dataset fails
-        fallback = [
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2) AppleWebKit/605.1.15 "
-            "(KHTML, like Gecko) Version/17.2 Safari/605.1.15",
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-        ]
-        return random.choice(fallback)
+        return random.choice(_DESKTOP_FALLBACK_UAS)
 
 
 def build_session() -> requests.Session:
@@ -107,6 +112,14 @@ def fetch_page(
         if status >= 400:
             log.error("HTTP %s from %s – not retrying", status, url)
             response.raise_for_status()
+        # Guard against mobile redirects: GSMArena bounces some UAs to
+        # m.gsmarena.com, whose HTML our parser doesn't understand. Treat
+        # that as a retryable failure so the next attempt picks a fresh UA.
+        if "m.gsmarena.com" in response.url:
+            log.warning(
+                "Mobile redirect detected (%s); retrying with a fresh UA", response.url
+            )
+            raise _RetryableHTTPError(f"Mobile redirect for {url}")
         return response.text
 
     try:
