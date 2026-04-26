@@ -143,6 +143,7 @@ def create_app() -> Flask:
             "index.html",
             files=_list_output_files(),
             jobs=sorted(_jobs.values(), key=lambda j: j.started_at, reverse=True),
+            default_brand_limit=config.DEFAULT_BRAND_LIMIT,
         )
 
     @app.post("/api/scrape")
@@ -170,9 +171,11 @@ def create_app() -> Flask:
                 400,
             )
 
-        if all_brands and limit is None:
-            # Don't accidentally let the web UI kick off a multi-hour scrape.
-            limit = 25
+        if (brand or all_brands) and limit is None:
+            # Web UI default: pull a meaningful batch (≥50 phones by default,
+            # configurable via DEFAULT_BRAND_LIMIT env var) so a single click
+            # produces a useful dataset without typing a number every time.
+            limit = config.DEFAULT_BRAND_LIMIT
 
         job_id = uuid.uuid4().hex[:12]
         label = brand or (url or "all")

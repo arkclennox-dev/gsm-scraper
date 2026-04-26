@@ -42,7 +42,7 @@
             </label>
             <label>
               <input type="radio" name="mode" value="all" />
-              All brands (capped at 25 per run from the UI)
+              All brands (defaults to {{ default_brand_limit }} phones per run; override below)
             </label>
           </fieldset>
 
@@ -57,7 +57,12 @@
             </label>
             <label>
               Limit
-              <input type="number" name="limit" min="0" placeholder="optional" />
+              <input
+                type="number"
+                name="limit"
+                min="0"
+                placeholder="default {{ default_brand_limit }}"
+              />
             </label>
             <label class="inline">
               <input type="checkbox" name="resume" />

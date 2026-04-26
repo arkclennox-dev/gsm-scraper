@@ -63,7 +63,7 @@ Then open http://localhost:5000:
 - Progress is polled live via `/api/jobs/<id>`.
 - Generated files appear under "Output files" with download links.
 
-The `/all` mode is capped at 25 phones per UI invocation to avoid accidentally launching multi-hour scrapes from a browser. Use the CLI for full sweeps.
+When you submit a brand or `all brands` scrape from the UI without specifying a limit, the app defaults to **50 phones per run** (configurable via the `DEFAULT_BRAND_LIMIT` env var). Submit an explicit `Limit` value to override. The CLI keeps `--limit` opt-in: omit it to scrape every phone the brand listing exposes.
 
 ## Output schema
 

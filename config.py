@@ -45,6 +45,11 @@ DELAY_MAX: float = _float("DELAY_MAX", 5.0)
 MAX_RETRIES: int = _int("MAX_RETRIES", 5)
 REQUEST_TIMEOUT: int = _int("REQUEST_TIMEOUT", 30)
 
+# When the web UI submits a brand or `--all` scrape without an explicit limit,
+# fetch this many phones per run by default. Override via env var if you want
+# bigger or smaller batches without editing code.
+DEFAULT_BRAND_LIMIT: int = _int("DEFAULT_BRAND_LIMIT", 50)
+
 LOG_LEVEL: str = os.getenv("LOG_LEVEL", "INFO").upper()
 
 BASE_URL: str = os.getenv("BASE_URL", "https://www.gsmarena.com").rstrip("/")
