@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# Logs / runtime data
+*.log
+scraper.log
+data/output/*
+data/checkpoint/*
+!data/output/.gitkeep
+!data/checkpoint/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+test-plan.md
+test-report.md
