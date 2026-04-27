@@ -79,16 +79,17 @@ _BRAND_INDEX_URL = "/makers.php3"
 
 
 def resolve_brand_listing_url(brand: str, session: requests.Session) -> str | None:
-    """Return the GSMArena listing URL for ``brand`` (e.g. ``samsung``)."""
-    slug = slugify(brand)
-    direct_guess = f"{config.BASE_URL}/{slug}-phones-9.php"
-    log.debug("Trying direct brand URL %s", direct_guess)
-    html = fetch_page(direct_guess, session=session, delay=False)
-    if html and "<title>404" not in html.lower() and "page not found" not in html.lower():
-        if parse_brand_listing(html):
-            return direct_guess
+    """Return the GSMArena listing URL for ``brand`` (e.g. ``samsung``).
 
-    log.info("Falling back to brand index lookup for %s", brand)
+    Always go through the makers index. GSMArena URLs look like
+    ``{slug}-phones-{id}.php`` where ``{id}`` differs per brand (Samsung is
+    ``9``, Xiaomi is ``80``, etc.) and the server treats the trailing id as
+    authoritative — ``xiaomi-phones-9.php`` happily returns Samsung's listing.
+    The makers index is the only reliable source of truth for the per-brand
+    id, so we resolve through it.
+    """
+    slug = slugify(brand)
+    log.info("Resolving brand listing for %s via makers index", brand)
     index_html = fetch_page(urljoin(config.BASE_URL + "/", _BRAND_INDEX_URL), session=session)
     if not index_html:
         return None
