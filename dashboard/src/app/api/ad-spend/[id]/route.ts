@@ -1,6 +1,23 @@
 import { authenticateRequest } from "@/lib/api/auth";
-import { apiSuccess, unauthorized, notFound, serverError } from "@/lib/api/response";
+import { apiSuccess, unauthorized, notFound, badRequest, serverError } from "@/lib/api/response";
 import { createServiceClient } from "@/lib/supabase/server";
+import { z } from "zod";
+
+const updateSchema = z.object({
+  report_date: z.string(),
+  platform: z.string(),
+  campaign_name: z.string().min(1),
+  adset_name: z.string().optional().nullable(),
+  ad_name: z.string().optional().nullable(),
+  utm_campaign: z.string().optional().nullable(),
+  utm_content: z.string().optional().nullable(),
+  utm_term: z.string().optional().nullable(),
+  spend: z.number().min(0),
+  impressions: z.number().int().min(0),
+  link_clicks: z.number().int().min(0),
+  landing_page_views: z.number().int().min(0),
+  notes: z.string().optional().nullable(),
+}).partial();
 
 export async function PATCH(
   request: Request,
@@ -11,11 +28,14 @@ export async function PATCH(
 
   const { id } = await params;
   const body = await request.json();
+  const parsed = updateSchema.safeParse(body);
+  if (!parsed.success) return badRequest("Validation failed", parsed.error.issues);
+
   const supabase = await createServiceClient();
 
   const { data, error } = await supabase
     .from("ad_spend_reports")
-    .update({ ...body, updated_at: new Date().toISOString() })
+    .update({ ...parsed.data, updated_at: new Date().toISOString() })
     .eq("id", id)
     .select()
     .single();

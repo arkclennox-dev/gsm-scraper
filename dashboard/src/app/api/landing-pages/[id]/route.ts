@@ -1,6 +1,28 @@
 import { authenticateRequest } from "@/lib/api/auth";
-import { apiSuccess, unauthorized, notFound, serverError } from "@/lib/api/response";
+import { apiSuccess, unauthorized, notFound, badRequest, serverError } from "@/lib/api/response";
 import { createServiceClient } from "@/lib/supabase/server";
+import { z } from "zod";
+
+const updateSchema = z.object({
+  title: z.string().min(1),
+  slug: z.string().min(1).regex(/^[a-z0-9-]+$/),
+  intro: z.string().optional().nullable(),
+  content: z.string().optional().nullable(),
+  meta_title: z.string().optional().nullable(),
+  meta_description: z.string().optional().nullable(),
+  featured_image_url: z.string().url().optional().nullable().or(z.literal("")),
+  disclosure_text: z.string().optional().nullable(),
+  status: z.enum(["draft", "published", "archived"]),
+  custom_head_script: z.string().optional().nullable(),
+  custom_body_script: z.string().optional().nullable(),
+  products: z.array(z.object({
+    product_id: z.string().uuid(),
+    sort_order: z.number().default(0),
+    custom_title: z.string().optional().nullable(),
+    custom_description: z.string().optional().nullable(),
+    custom_cta: z.string().default("Cek di Shopee"),
+  })).optional(),
+}).partial();
 
 export async function GET(
   request: Request,
@@ -38,8 +60,10 @@ export async function PATCH(
 
   const { id } = await params;
   const body = await request.json();
-  const { products, ...pageData } = body;
+  const parsed = updateSchema.safeParse(body);
+  if (!parsed.success) return badRequest("Validation failed", parsed.error.issues);
 
+  const { products, ...pageData } = parsed.data;
   const supabase = await createServiceClient();
 
   if (Object.keys(pageData).length > 0) {
@@ -54,7 +78,7 @@ export async function PATCH(
     await supabase.from("landing_page_products").delete().eq("landing_page_id", id);
     if (products.length > 0) {
       await supabase.from("landing_page_products").insert(
-        products.map((p: { product_id: string; sort_order?: number; custom_title?: string; custom_description?: string; custom_cta?: string }) => ({
+        products.map((p) => ({
           ...p,
           landing_page_id: id,
         }))

@@ -1,6 +1,17 @@
 import { authenticateRequest } from "@/lib/api/auth";
-import { apiSuccess, unauthorized, notFound, serverError } from "@/lib/api/response";
+import { apiSuccess, unauthorized, notFound, badRequest, serverError } from "@/lib/api/response";
 import { createServiceClient } from "@/lib/supabase/server";
+import { z } from "zod";
+
+const updateSchema = z.object({
+  site_name: z.string().min(1),
+  site_url: z.string().url().or(z.literal("")),
+  disclosure_text: z.string(),
+  meta_pixel_id: z.string(),
+  ga4_measurement_id: z.string(),
+  global_head_script: z.string(),
+  global_body_script: z.string(),
+}).partial();
 
 export async function GET(request: Request) {
   const { authenticated } = await authenticateRequest(request, "settings:read");
@@ -22,6 +33,9 @@ export async function PATCH(request: Request) {
   if (!authenticated) return unauthorized();
 
   const body = await request.json();
+  const parsed = updateSchema.safeParse(body);
+  if (!parsed.success) return badRequest("Validation failed", parsed.error.issues);
+
   const supabase = await createServiceClient();
 
   const { data: existing } = await supabase
@@ -34,7 +48,7 @@ export async function PATCH(request: Request) {
 
   const { data, error } = await supabase
     .from("site_settings")
-    .update({ ...body, updated_at: new Date().toISOString() })
+    .update({ ...parsed.data, updated_at: new Date().toISOString() })
     .eq("id", existing.id)
     .select()
     .single();

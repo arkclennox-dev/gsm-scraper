@@ -60,6 +60,10 @@ export default function ClicksPage() {
   }, [page, filters]);
 
   useEffect(() => {
+    setPage(1);
+  }, [filters]);
+
+  useEffect(() => {
     fetchClicks();
   }, [fetchClicks]);
 
