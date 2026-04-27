@@ -63,6 +63,24 @@ def test_fetch_page_returns_none_on_persistent_failure():
     assert html is None
 
 
+def test_fetch_page_caps_absurd_retry_after():
+    """Retry-After must be capped so a hostile/buggy header can't freeze the runner."""
+    sleeps: list[float] = []
+    session = MagicMock()
+    session.headers = {}
+    session.get.side_effect = [
+        _Response(429, headers={"Retry-After": "36000"}),
+        _Response(200, "<html>recovered</html>"),
+    ]
+    with patch("scraper.fetcher._polite_sleep", lambda: None), patch(
+        "scraper.fetcher.time.sleep", lambda s: sleeps.append(s)
+    ):
+        html = fetch_page("https://example.com", session=session)
+    assert html == "<html>recovered</html>"
+    # We must NOT have slept for anything close to 36000s. 60s is the cap.
+    assert max(sleeps) <= 60.0, f"slept {max(sleeps)}s — Retry-After cap failed"
+
+
 def test_fetch_page_retries_on_mobile_redirect():
     """A 200 response that landed on m.gsmarena.com must trigger a UA-rotation retry."""
     session = MagicMock()

@@ -101,6 +101,11 @@ def fetch_page(
                 wait_for = float(retry_after) if retry_after else 30.0
             except ValueError:
                 wait_for = 30.0
+            # Cap server-supplied Retry-After. GSMArena occasionally returns
+            # absurd values (e.g. 36000s = 10h) that would freeze the runner;
+            # tenacity's exponential backoff still spaces requests after we
+            # raise the retryable error.
+            wait_for = min(wait_for, 60.0)
             log.warning(
                 "HTTP 429 from %s – sleeping %.1fs before retry", url, wait_for
             )
