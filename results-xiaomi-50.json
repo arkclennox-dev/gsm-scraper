@@ -1,0 +1,3952 @@
+[
+  {
+    "name": "Xiaomi Poco C81",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco C81.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c81-.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 900 / 1800 / 1900",
+        "Band 4G LTE": "LTE",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 23",
+        "Status": "Tersedia",
+        "Dimensi": "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in)",
+        "Berat": "208 g (7.34 oz)",
+        "Bahan": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 800 nits (peak)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~84.3% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, up to 4 major Android upgrades, HyperOS 3",
+        "Chipset": "Unisoc T7250 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "4GB RAM",
+        "Penyimpanan Internal": "64GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, (wide)",
+        "Fitur": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, (wide)",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "6300 mAh",
+        "Kapasitas": "6300 mAh",
+        "Pengisian Kabel": "15W wired 7.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Sky Blue, Elite Black, Sunset Gold",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco C81x",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco C81x.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c81x.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 28, 40, 41",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 23",
+        "Status": "Tersedia",
+        "Dimensi": "171.8 x 77.8 x 8.3 mm (6.76 x 3.06 x 0.33 in)",
+        "Berat": "193 g (6.81 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 650 nits (HBM)",
+        "Ukuran": "6.88 inches, 112.4 cm 2 (~84.1% screen-to-body ratio)",
+        "Resolusi": "720 x 1640 pixels (~260 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades",
+        "Chipset": "Unisoc T7250 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "3GB RAM",
+        "Penyimpanan Internal": "64GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, f/2.2, (wide)",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide)",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, QZSS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "5200 mAh",
+        "Kapasitas": "5200 mAh",
+        "Pengisian Kabel": "15W wired 7.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Ice Blue, Crystal Black",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi K90 Max",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi K90 Max.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k90-max.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 4, 5, 7, 8, 19, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "Band 5G": "1, 3, 5, 7, 8, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 21",
+        "Status": "Tersedia",
+        "Dimensi": "162.9 x 77.9 x 8.1 mm (6.41 x 3.07 x 0.32 in)",
+        "Berat": "227 g (8.01 oz)",
+        "Bahan": "Glass front (Dragon Crystal Glass), aluminum frame, glass-fiber reinforced plastic back or silicone polymer back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 165Hz, Dolby Vision, HDR10+, 3500 nits (peak)",
+        "Ukuran": "6.83 inches, 114.5 cm 2 (~90.3% screen-to-body ratio)",
+        "Resolusi": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Refresh Rate": "165Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "MediaTek Dimensity 9500 (3nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+        "GPU": "Mali-G1 Ultra MC12"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.68, 1/1.55\", OIS 8 MP, f/2.2",
+        "Fitur": "HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP",
+        "Fitur": "HDR",
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC",
+        "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a+B2a), GALILEO (E1+E5a+E5b), QZSS(L1+L5), NavIC",
+        "NFC": "Ya",
+        "USB": "USB Type-C",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+      },
+      "Baterai": {
+        "Tipe": "Li-Po 8550 mAh",
+        "Kapasitas": "8550 mAh",
+        "Pengisian Kabel": "100W wired, PD3.0 22.5W reverse wired 22.5W reverse wireless",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Silver, Blue, Black",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi K Pad 2",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Redmi K Pad 2.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k-pad2.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": null,
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 22",
+        "Status": "Tersedia",
+        "Dimensi": "205 x 133.8 x 6.6 mm (8.07 x 5.27 x 0.26 in)",
+        "Berat": "345 g (12.17 oz)",
+        "Bahan": null,
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 68B colors, 165Hz, HDR10, HDR Vivid, Dolby Vision, 1100 nits (HBM)",
+        "Ukuran": "8.8 inches, 224.5 cm 2 (~81.9% screen-to-body ratio)",
+        "Resolusi": "1880 x 3008 pixels, 16:10 ratio (~403 ppi density)",
+        "Refresh Rate": "165Hz",
+        "Pelindung Layar": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+        "GPU": "Arm G1-Ultra"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM, 12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, f/2.2, (wide), 1/3.06\" 1.12μm, PDAF",
+        "Fitur": "LED flash, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.3, (wide), 1/4\" 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5, Auracast, ASHA, MIHC",
+        "GPS": "No",
+        "NFC": "Tidak",
+        "USB": "1x USB Type-C 3.2, 1x USB Type-C 2.0, Display Port 1.4, accessory connector",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "9100 mAh",
+        "Kapasitas": "9100 mAh",
+        "Pengisian Kabel": "67W wired, PD3.0, QC3+ 22.5W reverse wired Bypass charging",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Silver, Violet",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi A7 Pro",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi A7 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a7-pro-5g_.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 28, 40, 41, 78 - ROW",
+        "Band 5G": "1, 3, 5, 8, 28, 40, 41 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 13",
+        "Status": "Tersedia",
+        "Dimensi": "171.5 x 79.5 x 8.2 mm (6.75 x 3.13 x 0.32 in)",
+        "Berat": "210 g (7.41 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 800 nits (peak)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~84.3% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, up to 4 major Android upgrades, HyperOS 3",
+        "Chipset": "Unisoc T8300 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "4GB RAM, 6GB RAM",
+        "Penyimpanan Internal": "64GB, 128GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 32 MP, f/2.0, (wide), 1.12μm Auxiliary lens",
+        "Fitur": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide), 1/4.0\", 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "6300 mAh",
+        "Kapasitas": "6300 mAh",
+        "Pengisian Kabel": "15W wired 7.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Mist Blue, Sunset Orange",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi A7",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi A7.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a7-4g.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 28, 40, 41",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 21",
+        "Status": "Tersedia",
+        "Dimensi": "171.8 x 79.8 x 8.3 mm (6.76 x 3.14 x 0.33 in)",
+        "Berat": "193 g (6.81 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 600 nits (peak)",
+        "Ukuran": "6.88 inches, 112.4 cm 2 (~82.0% screen-to-body ratio)",
+        "Resolusi": "720 x 1640 pixels (~260 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades",
+        "Chipset": "Unisoc T7250 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "3GB RAM",
+        "Penyimpanan Internal": "64GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, f/2.2, (wide)",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide)",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "5200 mAh",
+        "Kapasitas": "5200 mAh",
+        "Pengisian Kabel": "15W wired 7.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Sky Blue",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco M8s",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco M8s.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m8s.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 21",
+        "Status": "Tersedia",
+        "Dimensi": "169.4 x 80.4 x 8.4 mm (6.67 x 3.17 x 0.33 in)",
+        "Berat": "217 g (7.65 oz)",
+        "Bahan": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 144Hz, 700 nits (typ), 850 nits (peak)",
+        "Ukuran": "6.9 inches, 116.9 cm 2 (~85.8% screen-to-body ratio)",
+        "Resolusi": "1080 x 2392 pixels, 19.5:9 ratio (~374 ppi density)",
+        "Refresh Rate": "144Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm)",
+        "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Adreno"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (uses shared SIM slot)",
+        "RAM": "6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.8, (wide), PDAF Auxiliary lens",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide)",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, gyro, compass"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 7000 mAh",
+        "Kapasitas": "7000 mAh",
+        "Pengisian Kabel": "33W wired 18W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi R70m",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi R70m.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-r70.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48",
+        "Band 5G": "1, 3, 5, 8, 28, 38, 40, 41, 48, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 15",
+        "Status": "Tersedia",
+        "Dimensi": "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in)",
+        "Berat": "210 g (7.41 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 800 nits (peak)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~84.3% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Unisoc T8300 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC",
+        "RAM": "6GB RAM, 8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "6300 mAh",
+        "Kapasitas": "6300 mAh",
+        "Pengisian Kabel": "15W wired, PD 7.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Blue, Purple, White",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi R70",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi R70.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-r70.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48",
+        "Band 5G": "1, 3, 5, 8, 28, 38, 40, 41, 48, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 15",
+        "Status": "Tersedia",
+        "Dimensi": "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in)",
+        "Berat": "210 g (7.41 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 800 nits (peak)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~84.3% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Unisoc T8300 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC",
+        "RAM": "4GB RAM, 6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "6000 mAh",
+        "Kapasitas": "6000 mAh",
+        "Pengisian Kabel": "15W wired, PD 7.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Blue, Purple, White",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Note 15 Special",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Note 15 Special.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-special-edition-.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 28, 40, 41",
+        "Band 5G": "1, 3, 5, 8, 28, 40, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, April 02",
+        "Status": "Tersedia",
+        "Dimensi": "164.0 x 75.4 x 7.4 mm or 7.8 mm",
+        "Berat": "178 g or 182 g (6.28 oz)",
+        "Bahan": "Glass front, plastic frame, plastic or eco leather back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, 800 nits (typ), 3200 nits (peak)",
+        "Ukuran": "6.77 inches, 110.9 cm 2 (~89.7% screen-to-body ratio)",
+        "Resolusi": "1080 x 2392 pixels (~388 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 3",
+        "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (uses shared SIM slot)",
+        "RAM": "6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.8, (wide), 1/2.88\", 0.61μm, PDAF Auxiliary lens",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, (wide), 1/4\"",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass"
+      },
+      "Baterai": {
+        "Tipe": "Li-Ion 5800 mAh",
+        "Kapasitas": "5800 mAh",
+        "Pengisian Kabel": "45W wired 18W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Crimson Reserve Red, Carbon Black, Frosted White",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi A7 Pro 4G",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi A7 Pro 4G.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a7-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - ROW",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Februari 27",
+        "Status": "Tersedia",
+        "Dimensi": "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in)",
+        "Berat": "208 g (7.34 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 800 nits (HBM)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~84.3% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Unisoc T7250 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "4GB RAM",
+        "Penyimpanan Internal": "64GB, 128GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, f/2.2, (wide), 1/3.06\" Auxiliary lens",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide)",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "6000 mAh",
+        "Kapasitas": "6000 mAh",
+        "Pengisian Kabel": "15W wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Mist Blue, Palm Green, Sunset Orange",
+        "Model": "25128RN17Y, 25128RN17A, 25128RN17L",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi 15a",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi 15a.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15a.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 28, 40, 41",
+        "Band 5G": "1, 3, 5, 8, 28, 40, 41, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Maret 27",
+        "Status": "Tersedia",
+        "Dimensi": "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in)",
+        "Berat": "210 g (7.41 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 800 nits (peak)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~84.3% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3, up to 4 major Android upgrades",
+        "Chipset": "Unisoc T8300 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "4GB RAM, 6GB RAM",
+        "Penyimpanan Internal": "64GB, 128GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 32 MP, f/2.0, (wide), 1.12μm, AF Auxiliary lens",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide), 1/4.0\", 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "6300 mAh",
+        "Kapasitas": "6300 mAh",
+        "Pengisian Kabel": "15W wired 7.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Blue, Purple",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco X8 Pro Max",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco X8 Pro Max.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x8-pro-max.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 48, 66",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA/Sub6"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Maret 17",
+        "Status": "Tersedia",
+        "Dimensi": "162.9 x 77.9 x 8.2 mm (6.41 x 3.07 x 0.32 in)",
+        "Berat": "218 g (7.69 oz)",
+        "Bahan": "Glass front (Gorilla Glass 7i), aluminum frame, glass-fiber reinforced plastic back",
+        "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, 2000 nits (HBM), 3500 nits (peak)",
+        "Ukuran": "6.83 inches, 114.5 cm 2 (~90.3% screen-to-body ratio)",
+        "Resolusi": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Corning Gorilla Glass 7i, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 9500s (3 nm)",
+        "CPU": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925 MC12"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8μm, PDAF, OIS 8 MP, f/2.2, 15mm (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, (wide), 1/4\"",
+        "Fitur": null,
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD, LHDC 5, Auracast, ASHA",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 8500 mAh or 9000 mAh (market/region dependent)",
+        "Kapasitas": "8500 mAh",
+        "Pengisian Kabel": "100W wired, 100W PPS, PD3.0, PPS, 50% in 24 min 27W reverse wired Bypass charging",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Blue",
+        "Model": "2602BPC18G",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco X8 Pro",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco X8 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x8-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA/Sub6"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Maret 17",
+        "Status": "Tersedia",
+        "Dimensi": "157.5 x 75.2 x 8.4 mm (6.20 x 2.96 x 0.33 in)",
+        "Berat": "201.5 g (7.13 oz)",
+        "Bahan": "Glass front (Gorilla Glass 7i), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, 2000 nits (HBM), 3500 nits (peak)",
+        "Ukuran": "6.59 inches, 106.4 cm 2 (~89.8% screen-to-body ratio)",
+        "Resolusi": "1268 x 2756 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Corning Gorilla Glass 7i, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 8500 Ultra (4 nm)",
+        "CPU": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
+        "GPU": "Mali-G720 MC8"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8μm, PDAF, OIS 8 MP, f/2.2, 15mm (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, (wide), 1/4\"",
+        "Fitur": null,
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD, LHDC 5, Auracast, ASHA",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6500 mAh",
+        "Kapasitas": "6500 mAh",
+        "Pengisian Kabel": "100W wired, 100W PPS, PD3.0, 100% in 48 min 27W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Mint Green",
+        "Model": "2511FPC34G",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco C85x",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco C85x.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c85x-.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 28, 40, 41",
+        "Band 5G": "1, 3, 5, 8, 28, 40, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Maret 10",
+        "Status": "Tersedia",
+        "Dimensi": "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in)",
+        "Berat": "210 g (7.41 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 810 nits (HBM)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~84.3% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Unisoc T8300 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "4GB RAM",
+        "Penyimpanan Internal": "64GB, 128GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 32 MP, (wide), AF Auxiliary lens",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide), 1/4.0\", 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "6300 mAh",
+        "Kapasitas": "6300 mAh",
+        "Pengisian Kabel": "15W wired 7.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Green, Gold",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi 17 Ultra",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi 17 Ultra.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-ultra-global.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 71, 75, 77, 78, 79 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Februari 28",
+        "Status": "Tersedia",
+        "Dimensi": "162.9 x 77.6 x 8.3 mm (6.41 x 3.06 x 0.33 in)",
+        "Berat": "218.4 g or 223.4 g (7.69 oz)",
+        "Bahan": "Glass front, glass-fiber reinforced plastic back / silicone polymer back (eco leather), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM + eSIM + eSIM + eSIM (max 2 at a time)"
+      },
+      "Layar": {
+        "Tipe": "LTPO AMOLED, 68B colors, 120Hz, 2160Hz PWM, Dolby Vision, HDR10+, 3500 nits (peak)",
+        "Ukuran": "6.9 inches, 116.6 cm 2 (~92.3% screen-to-body ratio)",
+        "Resolusi": "1200 x 2608 pixels, 19.5:9 ratio (~416 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Xiaomi Shield Glass 3.0"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "16GB RAM",
+        "Penyimpanan Internal": "512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.7, 23mm (wide), 1.0\"-type, 1.6μm, dual pixel PDAF, OIS 200 MP, f/2.4-3.0, 75-100mm (periscope telephoto), 1/1.4\", 0.56μm, multi-directional PDAF (30cm - ∞), OIS, 3.2-4.3x continuous optical zoom, zoom ring 50 MP, f/2.2, 14mm, 115 ̊ (ultrawide), 1/2.76\", 0.64μm, dual pixel PDAF TOF 3D, (depth)",
+        "Fitur": "Laser AF, color spectrum sensor, Leica lenses, Dual-LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240/480/960/1920fps, gyro-EIS, Dolby Vision HDR 10-bit rec. (4K@60fps, 1080p)"
+      },
+      "Kamera Depan": {
+        "Resolusi": "50 MP, f/2.2, 21mm (wide), 1/2.7\", 0.61μm, AF",
+        "Fitur": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5, MIHC",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 3.2 Gen 2, DisplayPort, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6000 mAh",
+        "Kapasitas": "6000 mAh",
+        "Pengisian Kabel": "90W wired, 90W PPS, PD3.0, QC3+ 50W wireless 22.5W reverse wired 10W reverse wireless",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Starlit Green",
+        "Model": "25128PNA1G, 2512BPNDAG",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi 17",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi 17.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66, 71 - International",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 71, 75, 77, 78 SA/NSA - International"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 25",
+        "Status": "Tersedia",
+        "Dimensi": "151.1 x 71.8 x 8.1 mm (5.95 x 2.83 x 0.32 in)",
+        "Berat": "191 g (6.74 oz)",
+        "Bahan": "Glass front (Dragon Crystal Glass), aluminum frame, glass back",
+        "SIM": "· Nano-SIM + Nano-SIM · Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+      },
+      "Layar": {
+        "Tipe": "LTPO AMOLED, 68B colors, 2160Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+        "Ukuran": "6.3 inches, 98.8 cm 2 (~91.1% screen-to-body ratio)",
+        "Resolusi": "1220 x 2656 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Refresh Rate": "2160Hz",
+        "Pelindung Layar": "Xiaomi Shield Glass (Global), Dragon Crystal Glass (China), Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.7, 23mm (wide), 1/1.31\", 1.2μm, dual pixel PDAF, OIS 50 MP, f/2.0, 60mm (telephoto), 1/2.76\", 0.64μm, PDAF (10cm - ∞), OIS, 2.6x optical zoom 50 MP, f/2.4, 17mm, 102 ̊ (ultrawide), 1/2.76\", 0.64μm",
+        "Fitur": "Laser AF, color spectrum sensor, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "8K@30fps (HDR), 4K@30/60fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "50 MP, f/2.2, 21mm (wide), 1/2.88\", 0.61μm, PDAF",
+        "Fitur": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, HDR10+, gyro-EIS"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 3.2, Display Port, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6330 mAh - Global Si/C Li-Ion 7000 mAh - China",
+        "Kapasitas": "6330 mAh",
+        "Pengisian Kabel": "100W wired, PD3.0, QC3+, 100W PPS 50W wireless 22.5W reverse wireless 22.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Venture Green, Alpine Pink, Ice Blue, White",
+        "Model": "25113PN0EG",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Pad 8 Pro",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Pad 8 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-8-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": null,
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 25",
+        "Status": "Tersedia",
+        "Dimensi": "251.2 x 173.4 x 5.8 mm (9.89 x 6.83 x 0.23 in)",
+        "Berat": "485 g or 494 g (1.07 lb)",
+        "Bahan": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, HDR Vivid, 800 nits (peak)",
+        "Ukuran": "11.2 inches, 371.5 cm 2 (~85.3% screen-to-body ratio)",
+        "Resolusi": "2136 x 3200 pixels, 3:2 ratio (~345 ppi density)",
+        "Refresh Rate": "144Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM, 12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 50 MP, f/1.8, (wide), 1/2.76\", 0.64μm, PDAF",
+        "Fitur": "Color spectrum sensor, LED flash, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "32 MP, f/2.2, 19mm (ultrawide), 1/3.6\", 0.61μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5",
+        "GPS": "No",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 3.2, accessory connector",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "9200 mAh",
+        "Kapasitas": "9200 mAh",
+        "Pengisian Kabel": "67W wired, PD3.0, QC3+ 22.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Pine Green, Blue, Gray",
+        "Model": "25097RP43G",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Watch 5",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Watch 5.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch5.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "Band 4G LTE": "LTE - cellular model only",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Desember 26",
+        "Status": "Tersedia",
+        "Dimensi": "47 x 47 x 12.3 mm (1.85 x 1.85 x 0.48 in)",
+        "Berat": "56 g (1.98 oz)",
+        "Bahan": "Sapphire crystal front, stainless steel frame (316L)",
+        "SIM": "eSIM (market/region dependent) - cellular model only"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 1500 nits (HBM)",
+        "Ukuran": "1.54 inches",
+        "Resolusi": "480 x 480 pixels (~312 ppi density)",
+        "Refresh Rate": null,
+        "Pelindung Layar": "Sapphire Glass, Mohs level 9"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 6 (Global), HyperOS 3 (China)",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)",
+        "CPU": "Dual-core",
+        "GPU": null
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "2GB RAM",
+        "Penyimpanan Internal": "32GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": null,
+        "Fitur": null,
+        "Video": null
+      },
+      "Kamera Depan": {
+        "Resolusi": null,
+        "Fitur": null,
+        "Video": null
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Yes, 2.4 GHz",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS (L1+L5), BDS, GALILEO, QZSS, GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "No",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, gyro, compass, barometer, heart rate, SpO2, EMG"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Po 930 mAh",
+        "Kapasitas": "930 mAh",
+        "Pengisian Kabel": null,
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Gray, Silver",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Turbo 5 Max",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Turbo 5 Max.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo-5-max.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48",
+        "Band 5G": "1, 3, 5, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA/Sub6"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Januari 29",
+        "Status": "Tersedia",
+        "Dimensi": "163 x 77.9 x 8.2 mm (6.42 x 3.07 x 0.32 in)",
+        "Berat": "219 g (7.72 oz)",
+        "Bahan": "Glass front, aluminum frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 3500 nits (peak)",
+        "Ukuran": "6.83 inches, 114.5 cm 2 (~90.2% screen-to-body ratio)",
+        "Resolusi": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 9500s (3 nm)",
+        "CPU": "Octa-core (1x3.73 GHz Cortex-X925 & 3xX.X GHz Cortex-X4 & 4xX.X GHz Cortex-A720)",
+        "GPU": "Immortalis-G925 MC12"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8μm, PDAF, OIS 8 MP, f/2.2, 15mm (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, (wide), 1/4\"",
+        "Fitur": null,
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5, Auracast, ASHA, MIHC",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 9000 mAh",
+        "Kapasitas": "9000 mAh",
+        "Pengisian Kabel": "100W wired, 100W PPS, PD3.0 27W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Blue, Orange",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Turbo 5",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Turbo 5.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo-5.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48",
+        "Band 5G": "1, 3, 5, 8, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA/Sub6"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Januari 29",
+        "Status": "Tersedia",
+        "Dimensi": "157.5 x 75.2 x 8.2 mm (6.20 x 2.96 x 0.32 in)",
+        "Berat": "204 g (7.20 oz)",
+        "Bahan": "Glass front, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 3500 nits (peak)",
+        "Ukuran": "6.59 inches, 106.4 cm 2 (~89.8% screen-to-body ratio)",
+        "Resolusi": "1268 x 2756 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 8500 Ultra (4 nm)",
+        "CPU": "Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725)",
+        "GPU": "Mali-G720 MC8"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8μm, PDAF, OIS 8 MP, f/2.2, 15mm (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, (wide), 1/4\"",
+        "Fitur": null,
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5, Auracast, ASHA, MIHC",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 7560 mAh",
+        "Kapasitas": "7560 mAh",
+        "Pengisian Kabel": "100W wired, 100W PPS, PD3.0 27W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Mint",
+        "Model": "2511FRT34C",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Black Shark Gaming Tablet",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Black Shark Gaming Tablet.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/black-shark-gaming-tablet.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": null,
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Februari 02",
+        "Status": "Tersedia",
+        "Dimensi": "7.7 mm thickness",
+        "Berat": "332 g (11.71 oz)",
+        "Bahan": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 144Hz, 600 nits (peak)",
+        "Ukuran": "8.8 inches, 224.5 cm 2",
+        "Resolusi": "2560 x 1600 pixels, 16:10 ratio (~343 ppi density)",
+        "Refresh Rate": "144Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16",
+        "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+        "GPU": "Adreno 735"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC",
+        "RAM": "12GB RAM",
+        "Penyimpanan Internal": "256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, (wide)",
+        "Fitur": "LED flash",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "5 MP, (wide)",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP",
+        "GPS": "No",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 3.1, DisplayPort",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Unspecified"
+      },
+      "Baterai": {
+        "Tipe": "7300 mAh",
+        "Kapasitas": "7300 mAh",
+        "Pengisian Kabel": null,
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Silver",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco M8 Pro",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco M8 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m8-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Januari 08",
+        "Status": "Tersedia",
+        "Dimensi": "163.3 x 78.3 x 8.3 mm (6.43 x 3.08 x 0.33 in)",
+        "Berat": "206 g (7.27 oz)",
+        "Bahan": "Glass front (Gorilla Glass Victus 2), plastic frame, glass-fiber reinforced plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, Dolby Vision, 1800 nits (HBM), 3200 nits (peak)",
+        "Ukuran": "6.83 inches, 114.5 cm 2 (~89.6% screen-to-body ratio)",
+        "Resolusi": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Corning Gorilla Glass Victus 2, Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+        "CPU": "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+        "GPU": "Adreno 810"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.6, 24mm (wide), 1/1.55\", 1.0μm, dual pixel PDAF, OIS 8 MP, f/2.2, 15mm, 120 ̊ (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "Yes"
+      },
+      "Kamera Depan": {
+        "Resolusi": "32 MP, f/2.2, (wide), 1/3.6\"",
+        "Fitur": "HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6 or 6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6500 mAh",
+        "Kapasitas": "6500 mAh",
+        "Pengisian Kabel": "100W wired, 100% in 40 min 22.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Green, Silver",
+        "Model": "2510EPC8BG",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco M8",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco M8.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m8.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2026, Januari 08",
+        "Status": "Tersedia",
+        "Dimensi": "164 x 75.4 x 7.4 mm (6.46 x 2.97 x 0.29 in)",
+        "Berat": "178 g (6.28 oz)",
+        "Bahan": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR, 800 nits (typ), 3200 nits (peak)",
+        "Ukuran": "6.77 inches, 110.9 cm 2 (~89.7% screen-to-body ratio)",
+        "Resolusi": "1080 x 2392 pixels (~388 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (uses shared SIM slot)",
+        "RAM": "6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.8, (wide), 1/2.88\", 0.61μm, PDAF Auxiliary lens",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, (wide), 1/4.0\"",
+        "Fitur": "HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 5520 mAh",
+        "Kapasitas": "5520 mAh",
+        "Pengisian Kabel": "45W wired 18W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Green, Silver",
+        "Model": "25118PC98G",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi 17 Ultra (China)",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi 17 Ultra (China).",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-ultra.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 13, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 70, 77, 78, 79, 80, 81, 83, 84, 89 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Desember 25",
+        "Status": "Tersedia",
+        "Dimensi": "162.9 x 77.6 x 8.3 mm or 8.5 mm",
+        "Berat": "224 g or 230 g (7.90 oz)",
+        "Bahan": "Glass front, glass-fiber reinforced plastic back / silicone polymer back (eco leather), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "LTPO AMOLED, 68B colors, 120Hz, 2160Hz PWM, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+        "Ukuran": "6.9 inches, 116.6 cm 2 (~92.3% screen-to-body ratio)",
+        "Resolusi": "1200 x 2608 pixels, 19.5:9 ratio (~416 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.7, 23mm (wide), 1.0\"-type, 1.6μm, dual pixel PDAF, OIS 200 MP, f/2.4-3.0, 75-100mm (periscope telephoto), 1/1.4\", 0.56μm, multi-directional PDAF (30cm - ∞), OIS, 3.2-4.3x continuous optical zoom, zoom ring 50 MP, f/2.2, 14mm, 115 ̊ (ultrawide), 1/2.76\", 0.64μm, dual pixel PDAF TOF 3D, (depth)",
+        "Fitur": "Laser AF, color spectrum sensor, Leica lenses, Dual-LED flash, HDR, panorama, 67mm filter ring holder (optional)",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240/480/960/1920fps, gyro-EIS, Dolby Vision HDR 10-bit rec. (4K@60fps, 1080p)"
+      },
+      "Kamera Depan": {
+        "Resolusi": "50 MP, f/2.2, 21mm (wide), 1/2.88\", 0.61μm",
+        "Fitur": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5, MIHC",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 3.2 Gen 2, DisplayPort, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6800 mAh",
+        "Kapasitas": "6800 mAh",
+        "Pengisian Kabel": "90W wired, 90W PPS, PD3.0, QC3+ 50W wireless 22.5W reverse wired 10W reverse wireless",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Starlit Green, Purple",
+        "Model": "25128PNA1C",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Note 15 Pro+",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Note 15 Pro+.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-pro-plus-global.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Desember 18",
+        "Status": "Tersedia",
+        "Dimensi": "163.3 x 78.3 x 8.2 mm or 8.5 mm",
+        "Berat": "207 g (7.30 oz)",
+        "Bahan": "Glass front (Gorilla Glass Victus 2), glass-fiber reinforced plastic back or silicone polymer back (eco leather)",
+        "SIM": "· Nano-SIM + eSIM · Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, Dolby Vision, 3200 nits (peak)",
+        "Ukuran": "6.83 inches, 114.5 cm 2 (~89.6% screen-to-body ratio)",
+        "Resolusi": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Corning Gorilla Glass Victus 2, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+        "CPU": "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+        "GPU": "Adreno 810"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56μm, multi-directional PDAF, OIS 8 MP, f/2.2, 15mm, 120 ̊ (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "32 MP, f/2.2, (wide), 1/3.0\", 0.7μm",
+        "Fitur": "HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent)",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6500 mAh",
+        "Kapasitas": "6500 mAh",
+        "Pengisian Kabel": "100W wired, 100% in 40 min 22.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Glacier Blue, Mocha Brown, Black",
+        "Model": "2510ERA8BG",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Note 15 Pro",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Note 15 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-pro-global.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Desember 18",
+        "Status": "Tersedia",
+        "Dimensi": "163.6 x 78.1 x 8 mm (6.44 x 3.07 x 0.31 in)",
+        "Berat": "210 g (7.41 oz)",
+        "Bahan": "Glass front (Gorilla Glass Victus 2), plastic back or silicone polymer back (eco leather), plastic frame",
+        "SIM": "· Nano-SIM + eSIM · Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, Dolby Vision, 1800 nits (HBM), 3200 nits (peak)",
+        "Ukuran": "6.83 inches, 114.5 cm 2 (~89.7% screen-to-body ratio)",
+        "Resolusi": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Corning Gorilla Glass Victus 2, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Mediatek Dimensity 7400 Ultra (4 nm)",
+        "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56μm, multi-directional PDAF, OIS 8 MP, f/2.2, 15mm, 120 ̊ (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, 25mm (wide), 1/4.0\", 0.7μm",
+        "Fitur": "HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6580 mAh",
+        "Kapasitas": "6580 mAh",
+        "Pengisian Kabel": "45W wired 22.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Glacier Blue, Mist Purple, Titanium",
+        "Model": "25060RABDG, 25080RABDG",
+        "SAR": "0.95 W/kg (head) 1.00 W/kg (body)"
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Note 15",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Note 15.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-global.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71 - International",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA - International"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Desember 18",
+        "Status": "Tersedia",
+        "Dimensi": "164 x 75.4 x 7.4 mm (6.46 x 2.97 x 0.29 in)",
+        "Berat": "178 g (6.28 oz)",
+        "Bahan": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, 800 nits (typ), 3200 nits (peak)",
+        "Ukuran": "6.77 inches, 110.9 cm 2 (~89.7% screen-to-body ratio)",
+        "Resolusi": "1080 x 2392 pixels (~388 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Scratch/drop-resistant glass, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (uses shared SIM slot)",
+        "RAM": "6GB RAM, 8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 108 MP, f/1.7, 24mm (wide), 1/1.67\", 0.64μm, PDAF, OIS 8 MP, f/2.2, 16mm (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, 21mm (wide), 1/4.0\"",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1 or 5.3, A2DP, LE",
+        "GPS": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 5520 mAh",
+        "Kapasitas": "5520 mAh",
+        "Pengisian Kabel": "45W wired 18W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Glacier Blue, Mist Purple",
+        "Model": "25096RA9BG, 25098RA98G",
+        "SAR": "1.00 W/kg (head) 0.99 W/kg (body)"
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Note 15 Pro 4G",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Note 15 Pro 4G.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-pro-4g-global.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Desember 18",
+        "Status": "Tersedia",
+        "Dimensi": "163.2 x 76.3 x 8 mm (6.43 x 3.00 x 0.31 in)",
+        "Berat": "195 g (6.88 oz)",
+        "Bahan": "Glass front (Gorilla Glass Victus 2), plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, 3200 nits (peak)",
+        "Ukuran": "6.77 inches, 110.9 cm 2 (~89.1% screen-to-body ratio)",
+        "Resolusi": "1080 x 2392 pixels (~388 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Corning Gorilla Glass Victus 2, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Mediatek Helio G200 Ultra (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2 (1.1GHz)"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (uses shared SIM slot)",
+        "RAM": "8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56μm, multi-directional PDAF, OIS 8 MP, f/2.2, 15mm, 120 ̊ (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps, gyro-EIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "32 MP, f/2.2, (wide), 1/3.0\", 0.7μm",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6500 mAh",
+        "Kapasitas": "6500 mAh",
+        "Pengisian Kabel": "45W wired 18W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Glacier Blue, Titanium",
+        "Model": "25100RA69G",
+        "SAR": "0.97 W/kg (head) 0.96 W/kg (body)"
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Note 15 4G",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Note 15 4G.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-4g-global.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Desember 18",
+        "Status": "Tersedia",
+        "Dimensi": "164 x 75.4 x 7.9 mm (6.46 x 2.97 x 0.31 in)",
+        "Berat": "183.7 g (6.49 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, 3200 nits (peak)",
+        "Ukuran": "6.77 inches, 110.9 cm 2 (~89.7% screen-to-body ratio)",
+        "Resolusi": "1080 x 2392 pixels (~388 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Mediatek Helio G100 Ultra (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (uses shared SIM slot)",
+        "RAM": "6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 108 MP, f/1.7, 24mm (wide), 1/1.67\", 0.64μm, PDAF Auxiliary lens",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, (wide), 1/4.0\", 0.7μm",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+      },
+      "Baterai": {
+        "Tipe": "6000 mAh",
+        "Kapasitas": "6000 mAh",
+        "Pengisian Kabel": "33W wired 18W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Forest Green, Glacier Blue, Purple",
+        "Model": "2510DRA23E, 2510DRA23G",
+        "SAR": "0.98 W/kg (head) 0.96 W/kg (body)"
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco C85",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco C85.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c85-5g.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 5, 8, 28, 40, 41",
+        "Band 5G": "1, 3, 5, 8, 28, 40, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Desember 09",
+        "Status": "Tersedia",
+        "Dimensi": "173.2 x 81.1 x 8 mm (6.82 x 3.19 x 0.31 in)",
+        "Berat": "211 g (7.44 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 810 nits (HBM)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~81.8% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, HyperOS 2",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "4GB RAM, 6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64μm, PDAF Auxiliary lens",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide), 1/4.0\", 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "6000 mAh",
+        "Kapasitas": "6000 mAh",
+        "Pengisian Kabel": "33W wired, PD, 50% in 28 min 10W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Mystic Purple, Spring Green, Power Black",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco F8 Ultra",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco F8 Ultra.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f8-ultra-.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, November 26",
+        "Status": "Tersedia",
+        "Dimensi": "163.3 x 77.8 x 7.9 mm or 8.3 mm",
+        "Berat": "218 g or 220 g (7.69 oz)",
+        "Bahan": "Glass front (Poco Shield Glass), aluminum frame, glass-fiber reinforced plastic back or silicone polymer back",
+        "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) · Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 2560Hz PWM, 120Hz, Dolby Vision, HDR10+, 2000 nits (HBM), 3500 nits (peak)",
+        "Ukuran": "6.9 inches, 116.6 cm 2 (~91.8% screen-to-body ratio)",
+        "Resolusi": "1200 x 2608 pixels, 19.5:9 ratio (~416 ppi density)",
+        "Refresh Rate": "2560Hz",
+        "Pelindung Layar": "Poco Shield Glass"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.7, 23mm (wide), 1/1.31\", 1.2μm, dual pixel PDAF, OIS 50 MP, f/3.0, 115mm (periscope telephoto), 1/2.76\", 0.64μm, PDAF (30cm - ∞), OIS, 5x optical zoom 50 MP, f/2.4, 18mm, 102 ̊ (ultrawide), 1/2.88\", 0.61μm",
+        "Fitur": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "32 MP, f/2.2, 21mm (wide), 1/3.44\", 0.64μm",
+        "Fitur": "HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5.0, ASHA, MIHC",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 3.2, Display Port, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+      },
+      "Baterai": {
+        "Tipe": "6500 mAh",
+        "Kapasitas": "6500 mAh",
+        "Pengisian Kabel": "100W wired, PD3.0, QC3+, 100W PPS, 100% in 38 mins 50W wireless, 50% in 31 mins 22.5W reverse wireless",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Denim Blue",
+        "Model": "25102PCBEG",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco F8 Pro",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Poco F8 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f8-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, November 26",
+        "Status": "Tersedia",
+        "Dimensi": "157.5 x 75.3 x 8 mm (6.20 x 2.96 x 0.31 in)",
+        "Berat": "199 g (7.02 oz)",
+        "Bahan": "Glass front (Gorilla Glass 7i), aluminum frame, glass back",
+        "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) · Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 2560Hz PWM, 120Hz, Dolby Vision, HDR10+, 2000 nits (HBM), 3500 nits (peak)",
+        "Ukuran": "6.59 inches, 106.5 cm 2 (~89.8% screen-to-body ratio)",
+        "Resolusi": "1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density)",
+        "Refresh Rate": "2560Hz",
+        "Pelindung Layar": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.9, 24mm (wide), 1/1.55\", 1.0μm, multi-directional PDAF, OIS 50 MP, f/2.2, 60mm (telephoto), 1/2.88\", 0.61μm, multi-directional PDAF, 2.5x optical zoom 8 MP, f/2.2, 15mm, 120 ̊ (ultrawide), 1/4.0\", 1.12μm",
+        "Fitur": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, f/2.2, 21mm (wide), 1/4.0\", 0.7μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5.0, ASHA, Auracast",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "6210 mAh",
+        "Kapasitas": "6210 mAh",
+        "Pengisian Kabel": "100W wired, PD3.0, QC3+, 100W PPS, 100% in 37 min, 22.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Titanium Silver, Blue, Black",
+        "Model": "2510DPC44G",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco Pad X1",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Poco Pad X1.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-pad-x1.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": "N/A",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, November 26",
+        "Status": "Tersedia",
+        "Dimensi": "251.2 x 173.4 x 6.2 mm (9.89 x 6.83 x 0.24 in)",
+        "Berat": "500 g (1.10 lb)",
+        "Bahan": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, 800 nits (peak)",
+        "Ukuran": "11.2 inches, 373.7 cm 2 (~85.8% screen-to-body ratio)",
+        "Resolusi": "2136 x 3200 pixels, 3:2 ratio (~344 ppi density)",
+        "Refresh Rate": "144Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Qualcomm SM7675-AB Snapdragon 7+ Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.8 GHz Cortex-X4 & 4x2.6 GHz Cortex-A720 & 3x1.9 GHz Cortex-A520)",
+        "GPU": "Adreno 732"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, f/2.2, (wide), 1/3.06\", 1.12μm, PDAF",
+        "Fitur": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.3, (wide), 1/4.0\", 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6 or 6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, LHDC 5",
+        "GPS": "No",
+        "NFC": "Yes (data transfer only; not for payments - market/region dependent)",
+        "USB": "USB Type-C 3.2, accessory connector",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "8850 mAh",
+        "Kapasitas": "8850 mAh",
+        "Pengisian Kabel": "45W wired, PD3.0, QC3+, 100% in 1h 34 min",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Gray, Blue",
+        "Model": "25099RP08G",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Poco Pad M1",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Poco Pad M1.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-pad-m1-n.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": null,
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, November 26",
+        "Status": "Tersedia",
+        "Dimensi": "279.8 x 181.7 x 7.5 mm (11.02 x 7.15 x 0.30 in)",
+        "Berat": "610 g (1.34 lb)",
+        "Bahan": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 1B colors, 120Hz, Dolby Vision, 600 nits (HBM)",
+        "Ukuran": "12.1 inches, 424.5 cm 2 (~83.5% screen-to-body ratio)",
+        "Resolusi": "1600 x 2560 pixels, 16:10 ratio (~249 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+        "CPU": "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+        "GPU": "Adreno 810"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "8GB RAM",
+        "Penyimpanan Internal": "256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 8 MP, f/2.0, (wide), 1/4.0\", 1.12μm",
+        "Fitur": "Color spectrum sensor, LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.3, (wide), 1/4.0\", 1.12μm",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/a/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive",
+        "GPS": "No",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, gyro, proximity (accessories only), compass"
+      },
+      "Baterai": {
+        "Tipe": "12000 mAh",
+        "Kapasitas": "12000 mAh",
+        "Pengisian Kabel": "33W wired, PD3.0, QC3+ 27W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Gray, Blue",
+        "Model": "2509ARPBDG",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Black Shark GS3 Ultra",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Black Shark GS3 Ultra.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-gs3-ultra.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": "N/A",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, November 21",
+        "Status": "Tersedia",
+        "Dimensi": "-",
+        "Berat": "-",
+        "Bahan": "Glass front (Gorilla Glass), aluminum frame",
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 1000 nits",
+        "Ukuran": "1.43 inches",
+        "Resolusi": "466 x 466 pixels (~326 ppi density)",
+        "Refresh Rate": null,
+        "Pelindung Layar": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": null,
+        "Chipset": null,
+        "CPU": null,
+        "GPU": null
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": null,
+        "Penyimpanan Internal": null
+      },
+      "Kamera Utama": {
+        "Konfigurasi": null,
+        "Fitur": null,
+        "Video": null
+      },
+      "Kamera Depan": {
+        "Resolusi": null,
+        "Fitur": null,
+        "Video": null
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Unspecified",
+        "USB": "No",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+      },
+      "Baterai": {
+        "Tipe": null,
+        "Kapasitas": null,
+        "Pengisian Kabel": null,
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Silver",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Black Shark GS3",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Black Shark GS3.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-gs3.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": "N/A",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, November",
+        "Status": "Tersedia",
+        "Dimensi": "-",
+        "Berat": "-",
+        "Bahan": null,
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 600 nits",
+        "Ukuran": "1.43 inches",
+        "Resolusi": "466 x 466 pixels (~326 ppi density)",
+        "Refresh Rate": null,
+        "Pelindung Layar": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": null,
+        "Chipset": null,
+        "CPU": null,
+        "GPU": null
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": null,
+        "Penyimpanan Internal": null
+      },
+      "Kamera Utama": {
+        "Konfigurasi": null,
+        "Fitur": null,
+        "Video": null
+      },
+      "Kamera Depan": {
+        "Resolusi": null,
+        "Fitur": null,
+        "Video": null
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "GPS": "GPS, GLONASS",
+        "NFC": "Unspecified",
+        "USB": "No",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, compass, heart rate, SpO2"
+      },
+      "Baterai": {
+        "Tipe": null,
+        "Kapasitas": null,
+        "Pengisian Kabel": null,
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Green",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi K90",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi K90.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-90.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 4, 5, 7, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+        "Band 5G": "1, 3, 5, 7, 8, 28, 66, 38, 40, 41, 48, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Oktober 23",
+        "Status": "Tersedia",
+        "Dimensi": "157.5 x 75.3 x 8 mm (6.20 x 2.96 x 0.31 in)",
+        "Berat": "206 g (7.27 oz)",
+        "Bahan": "Glass front, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 2560Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+        "Ukuran": "6.59 inches, 106.5 cm 2 (~89.8% screen-to-body ratio)",
+        "Resolusi": "1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density)",
+        "Refresh Rate": "2560Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.9, 24mm (wide), 1/1.55\", 1.0μm, PDAF, OIS 50 MP, f/2.2, 60mm (telephoto), PDAF, 2.5x optical zoom 8 MP, f/2.2, 15mm, 120 ̊ (ultrawide)",
+        "Fitur": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "20 MP, (wide), 1/2.0\", 0.8μm",
+        "Fitur": null,
+        "Video": "1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5.0, ASHA",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Po 7100 mAh",
+        "Kapasitas": "7100 mAh",
+        "Pengisian Kabel": "100W wired, PD3.0, QC3+, 100W PPS 22.5W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Blue, Purple",
+        "Model": "2510DRK44C",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi K90 Pro Max",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi K90 Pro Max.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k90-pro-max.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+        "Band 5G": "1, 3, 5, 7, 8, 18, 26, 28, 38, 40, 41, 48, 66, 77, 78, 80, 81, 83, 84, 89 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Oktober 23",
+        "Status": "Tersedia",
+        "Dimensi": "163.3 x 77.8 x 7.9 mm (6.43 x 3.06 x 0.31 in)",
+        "Berat": "218 g (7.69 oz)",
+        "Bahan": "Glass front (Dragon Crystal Glass), aluminum frame, glass-fiber reinforced plastic back or silicone polymer back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 2560Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+        "Ukuran": "6.9 inches, 116.6 cm 2 (~91.8% screen-to-body ratio)",
+        "Resolusi": "1200 x 2608 pixels, 19.5:9 ratio (~416 ppi density)",
+        "Refresh Rate": "2560Hz",
+        "Pelindung Layar": "Xiaomi Dragon Crystal Glass"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.7, 23mm (wide), 1/1.31\", 1.2μm, dual pixel PDAF, OIS 50 MP, f/3.0, 115mm (periscope telephoto), 1/2.76\", 0.64μm, PDAF (30cm - ∞), OIS, 5x optical zoom 50 MP, f/2.4, 18mm, 102 ̊ (ultrawide), 1/2.88\", 0.61μm",
+        "Fitur": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "32 MP, f/2.2, 21mm (wide), 1/3.44\", 0.64μm",
+        "Fitur": null,
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5.0, ASHA, MIHC",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 3.2, Display Port, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 7560 mAh",
+        "Kapasitas": "7560 mAh",
+        "Pengisian Kabel": "100W wired, PD3.0, QC3+, 100W PPS 50W wireless 22.5W reverse wireless",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Denim Blue, Lamborgini White",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Watch 6",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Watch 6.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch6.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": "N/A",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Oktober 23",
+        "Status": "Tersedia",
+        "Dimensi": "46.5 x 40 x 9.9 mm (1.83 x 1.57 x 0.39 in)",
+        "Berat": "31 g (1.09 oz)",
+        "Bahan": "Plastic back, aluminum frame",
+        "SIM": "eSIM (China only)"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 2000 nits (peak)",
+        "Ukuran": "2.1 inches",
+        "Resolusi": "432 x 514 pixels (~324 ppi density)",
+        "Refresh Rate": null,
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "HyperOS 3",
+        "Chipset": null,
+        "CPU": null,
+        "GPU": null
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": null,
+        "Penyimpanan Internal": null
+      },
+      "Kamera Utama": {
+        "Konfigurasi": null,
+        "Fitur": null,
+        "Video": null
+      },
+      "Kamera Depan": {
+        "Resolusi": null,
+        "Fitur": null,
+        "Video": null
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "No",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS; dual L1 antennas",
+        "NFC": "NFC (China only)",
+        "USB": "No",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, heart rate, compass, gyro, SpO2"
+      },
+      "Baterai": {
+        "Tipe": "550 mAh",
+        "Kapasitas": "550 mAh",
+        "Pengisian Kabel": null,
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Silver",
+        "Model": "M2523W1",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi 17 Pro Max",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi 17 Pro Max.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-pro-max.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 13, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 70, 71, 77, 78, 79, 80, 81, 83, 84, 89 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 25",
+        "Status": "Tersedia",
+        "Dimensi": "162.9 x 77.6 x 8 mm (6.41 x 3.06 x 0.31 in)",
+        "Berat": "219 g (7.72 oz)",
+        "Bahan": "Glass front (Dragon Crystal Glass 3), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "LTPO AMOLED, 68B colors, 2160Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+        "Ukuran": "6.9 inches, 116.6 cm 2 (~92.3% screen-to-body ratio)",
+        "Resolusi": "1200 x 2608 pixels, 19.5:9 ratio (~416 ppi density)",
+        "Refresh Rate": "2160Hz",
+        "Pelindung Layar": "Xiaomi Dragon Crystal Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.7, 23mm (wide), 1/1.28\", 1.22μm, dual pixel PDAF, OIS 50 MP, f/2.6, 115mm (periscope telephoto), 1/1.95\", 0.8μm, PDAF (30cm - ∞), OIS, 5x optical zoom 50 MP, f/2.4, 17mm, 102 ̊ (ultrawide), 1/2.88\", 0.61μm, PDAF",
+        "Fitur": "Laser AF, color spectrum sensor, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "8K@30fps (HDR), 4K@30/60/120fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "50 MP, f/2.2, 21mm (wide), 1/2.88\", 0.61μm, PDAF",
+        "Fitur": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, HDR10+, gyro-EIS"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 3.2, Display Port, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 7500 mAh",
+        "Kapasitas": "7500 mAh",
+        "Pengisian Kabel": "100W wired, PD3.0, QC3+, 100W PPS 50W wireless 22.5W reverse wireless",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Purple, Green",
+        "Model": "2509FPN0BC",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi 17 Pro",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi 17 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 80, 81, 83, 84, 89 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 25",
+        "Status": "Tersedia",
+        "Dimensi": "151.1 x 71.8 x 8 mm (5.95 x 2.83 x 0.31 in)",
+        "Berat": "192 g (6.77 oz)",
+        "Bahan": "Glass front (Dragon Crystal Glass), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "LTPO AMOLED, 68B colors, 2160Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+        "Ukuran": "6.3 inches, 97.1 cm 2 (~89.5% screen-to-body ratio)",
+        "Resolusi": "1220 x 2656 pixels, 19.5:9 ratio (~464 ppi density)",
+        "Refresh Rate": "2160Hz",
+        "Pelindung Layar": "Xiaomi Dragon Crystal Glass"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM, 16GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.7, 23mm (wide), 1/1.28\", 1.22μm, dual pixel PDAF, OIS 50 MP, f/3.0, 115mm (periscope telephoto), PDAF (20cm - ∞), OIS, 5x optical zoom 50 MP, f/2.4, 17mm, 102 ̊ (ultrawide), 1/2.76\", 0.64μm",
+        "Fitur": "Laser AF, color spectrum sensor, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "8K@30fps (HDR), 4K@30/60/120fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+      },
+      "Kamera Depan": {
+        "Resolusi": "50 MP, f/2.2, 21mm (wide), PDAF",
+        "Fitur": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, HDR10+, gyro-EIS"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Ya",
+        "USB": "USB Type-C 3.2, Display Port, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+      },
+      "Baterai": {
+        "Tipe": "Si/C Li-Ion 6300 mAh",
+        "Kapasitas": "6300 mAh",
+        "Pengisian Kabel": "100W wired, PD3.0, QC3+, 100W PPS 50W wireless 22.5W reverse wireless",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, White, Purple, Green",
+        "Model": "25098PN5AC",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Black Shark Pad 7 Pro",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Black Shark Pad 7 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-pad-7-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "LTE",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Oktober 30",
+        "Status": "Tersedia",
+        "Dimensi": "-",
+        "Berat": "513 g (1.13 lb)",
+        "Bahan": "Glass front, aluminum back, aluminum frame",
+        "SIM": "Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 420 nits",
+        "Ukuran": "11.0 inches, 352.4 cm 2",
+        "Resolusi": "1200 x 1900 pixels, 16:10 ratio (~204 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC",
+        "RAM": "8GB RAM",
+        "Penyimpanan Internal": "256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 13 MP 2 MP",
+        "Fitur": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (4 speakers)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "GPS": "GPS",
+        "NFC": "Tidak",
+        "USB": "USB Type-C, magnetic accessory connector pins",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer"
+      },
+      "Baterai": {
+        "Tipe": "8800 mAh",
+        "Kapasitas": "8800 mAh",
+        "Pengisian Kabel": null,
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Gray, Blue",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Black Shark Pad 7",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Black Shark Pad 7.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-pad-7.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "Band 4G LTE": "LTE - cellular model only",
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, Oktober 30",
+        "Status": "Tersedia",
+        "Dimensi": "-",
+        "Berat": "505 g (1.11 lb)",
+        "Bahan": "Glass front, aluminum back, aluminum frame",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 90Hz, 420 nits",
+        "Ukuran": "11.0 inches, 352.4 cm 2",
+        "Resolusi": "1200 x 1900 pixels, 16:10 ratio (~204 ppi density)",
+        "Refresh Rate": "90Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15",
+        "Chipset": "Mediatek Helio G88 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC",
+        "RAM": "6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP",
+        "Fitur": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "5 MP",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "GPS": "GPS - cellular model only",
+        "NFC": "Tidak",
+        "USB": "USB Type-C",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer"
+      },
+      "Baterai": {
+        "Tipe": "7700 mAh",
+        "Kapasitas": "7700 mAh",
+        "Pengisian Kabel": null,
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Gray, Blue",
+        "Model": null,
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Pad 8",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Pad 8.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-8.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": null,
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 25",
+        "Status": "Tersedia",
+        "Dimensi": "251.2 x 173.4 x 5.8 mm (9.89 x 6.83 x 0.23 in)",
+        "Berat": "485 g or 494 g (1.07 lb)",
+        "Bahan": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, HDR Vivid, 800 nits (peak)",
+        "Ukuran": "11.2 inches, 373.7 cm 2 (~85.8% screen-to-body ratio)",
+        "Resolusi": "2136 x 3200 pixels, 3:2 ratio (~344 ppi density)",
+        "Refresh Rate": "144Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+        "CPU": "Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720)",
+        "GPU": "Adreno 825"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, f/2.2, (wide), 1/3.06\", 1.12μm, PDAF",
+        "Fitur": "LED flash, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.3, (wide), 1/4.0\", 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, LHDC 5",
+        "GPS": "No",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 3.2, accessory connector",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "9200 mAh",
+        "Kapasitas": "9200 mAh",
+        "Pengisian Kabel": "45W wired, PD3.0, QC3+ 22.5 reverse wireless charging",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Blue, Green",
+        "Model": "25091RP04G",
+        "SAR": "0.99 W/kg (body)"
+      }
+    }
+  },
+  {
+    "name": "Xiaomi 15T Pro",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi 15T Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15t-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 71, 75, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 24",
+        "Status": "Tersedia",
+        "Dimensi": "162.7 x 77.9 x 8 mm (6.41 x 3.07 x 0.31 in)",
+        "Berat": "210 g (7.41 oz)",
+        "Bahan": "Glass front (Gorilla Glass 7i), aluminum frame, glass-fiber reinforced plastic back",
+        "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) · Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR10+, 3200 nits (peak)",
+        "Ukuran": "6.83 inches, 114.5 cm 2 (~90.4% screen-to-body ratio)",
+        "Resolusi": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Refresh Rate": "144Hz",
+        "Pelindung Layar": "Corning Gorilla Glass 7i, Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, upgradable to Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 9400+ (3 nm)",
+        "CPU": "Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB, 1TB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.6, 23mm (wide), 1/1.31\", 1.2μm, multi-directional PDAF, OIS 50 MP, f/3.0, 115mm (periscope telephoto), 1/2.76\", 0.64μm, PDAF (10cm - ∞), OIS, 5x optical zoom 12 MP, f/2.2, 15mm, 120 ̊ (ultrawide), 1/3.06\", 1.12μm",
+        "Fitur": "Leica lens, Color spectrum sensor, Ultra HDR, LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "32 MP, f/2.2, 21mm (wide), 1/3.44\", 0.64μm",
+        "Fitur": "HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, HDR10+"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "5500 mAh",
+        "Kapasitas": "5500 mAh",
+        "Pengisian Kabel": "90W wired, PD3.0, QC4, 100% in 36 min 50W wireless, 100% in 56 min",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Gray, Mocha Gold",
+        "Model": "2506BPN68G",
+        "SAR": "0.99 W/kg (head) 0.99 W/kg (body)"
+      }
+    }
+  },
+  {
+    "name": "Xiaomi 15T",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi 15T.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-15t.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 75, 77, 78 SA/NSA"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 24",
+        "Status": "Tersedia",
+        "Dimensi": "163.2 x 78 x 7.5 mm (6.43 x 3.07 x 0.30 in)",
+        "Berat": "194 g (6.84 oz)",
+        "Bahan": "Glass front (Gorilla Glass 7i), plastic frame, glass-fiber reinforced plastic back",
+        "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) · Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, 3200 nits (peak)",
+        "Ukuran": "6.83 inches, 114.5 cm 2 (~90.0% screen-to-body ratio)",
+        "Resolusi": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Corning Gorilla Glass 7i, Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, upgradable to Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 8400 Ultra (4 nm)",
+        "CPU": "Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725)",
+        "GPU": "Mali-G720 MC7"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Triple: 50 MP, f/1.7, 23mm (wide), 1/1.55\", 1.0μm, PDAF, OIS 50 MP, f/1.9, 46mm (telephoto), 1/2.76\", 0.64μm, PDAF, 2x optical zoom 12 MP, f/2.2, 15mm, 120 ̊ (ultrawide), 1/3.06\", 1.12μm",
+        "Fitur": "Leica lens, Color spectrum sensor, Ultra HDR, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
+      },
+      "Kamera Depan": {
+        "Resolusi": "32 MP, f/2.2, 21mm (wide), 1/3.44\", 0.64μm",
+        "Fitur": "HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, HDR10+"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE",
+        "GPS": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "5500 mAh",
+        "Kapasitas": "5500 mAh",
+        "Pengisian Kabel": "67W wired, PD3.0, 100% in 50 min",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Black, Gray, Rose Gold",
+        "Model": "25069PTEBG",
+        "SAR": "0.99 W/kg (head) 0.99 W/kg (body)"
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Pad 2 Pro",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Redmi Pad 2 Pro.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad2-pro.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71 - cellular model only",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78, 71 SA/NSA - cellular model only"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 24",
+        "Status": "Tersedia",
+        "Dimensi": "279.8 x 181.7 x 7.5 mm (11.02 x 7.15 x 0.30 in)",
+        "Berat": "600 / 610 / 620 g (1.32 lb)",
+        "Bahan": "Glass front (Gorilla Glass 3), aluminum frame, aluminum back",
+        "SIM": "· Nano-SIM + eSIM - cellular model only · Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - cellular model only"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 1B colors, 120Hz, Dolby Vision, 600 nits (HBM)",
+        "Ukuran": "12.1 inches, 424.5 cm 2 (~83.5% screen-to-body ratio)",
+        "Resolusi": "1600 x 2560 pixels, 16:10 ratio (~249 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Corning Gorilla Glass 3, Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+        "CPU": "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+        "GPU": "Adreno 810"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 8 MP, f/2.0, (wide), 1/4.0\", 1.12μm - Wi-Fi model 13 MP, f/2.2, (wide), 1/3.06\", 1.12μm, AF - 5G model",
+        "Fitur": "Color spectrum sensor, LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.3, (wide), 1/4.0\", 1.12μm",
+        "Fitur": null,
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/a/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive",
+        "GPS": "GPS, GLONASS, GALILEO, BDS (B1I + B1C), QZSS - cellular model only",
+        "NFC": "Tidak",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, gyro, proximity (accessories only), compass, gyro (cellular model only)"
+      },
+      "Baterai": {
+        "Tipe": "12000 mAh",
+        "Kapasitas": "12000 mAh",
+        "Pengisian Kabel": "33W wired, PD3.0, QC3+ 27W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Graphite Gray, Silver, Lavender Purple, Matte Glass Version",
+        "Model": "25099RP13G, 2509BRP2DG",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Pad Mini",
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "description": "Smartphone Xiaomi Xiaomi Pad Mini.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-mini-new.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "No cellular connectivity",
+        "Band 2G": "N/A",
+        "Band 4G LTE": null,
+        "Band 5G": null
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 24",
+        "Status": "Tersedia",
+        "Dimensi": "205.1 x 132 x 6.5 mm (8.07 x 5.20 x 0.26 in)",
+        "Berat": "326 g (11.50 oz)",
+        "Bahan": null,
+        "SIM": "No"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 68B colors, 165Hz, HDR10, Dolby Vision, 700 nits (HBM)",
+        "Ukuran": "8.8 inches, 224.5 cm 2 (~82.9% screen-to-body ratio)",
+        "Resolusi": "1880 x 3008 pixels, 16:10 ratio (~403 ppi density)",
+        "Refresh Rate": "165Hz",
+        "Pelindung Layar": null
+      },
+      "Platform": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Mediatek Dimensity 9400+ (3 nm)",
+        "CPU": "Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memori": {
+        "Slot Kartu": "Tidak ada",
+        "RAM": "8GB RAM, 12GB RAM",
+        "Penyimpanan Internal": "256GB, 512GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Single: 13 MP, f/2.2, (wide), 1/3.06\" 1.12μm, PDAF",
+        "Fitur": "LED flash, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.3, (wide), 1/4\" 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "Jack 3.5mm": "Tidak"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5.0, ASHA",
+        "GPS": "No",
+        "NFC": "Tidak",
+        "USB": "1x USB Type-C 3.2, 1x USB Type-C 2.0, Display Port 1.4, accessory connector",
+        "Inframerah": "Ya"
+      },
+      "Sensor": {
+        "Sensor": "Accelerometer, gyro, proximity, compass"
+      },
+      "Baterai": {
+        "Tipe": "7500 mAh",
+        "Kapasitas": "7500 mAh",
+        "Pengisian Kabel": "67W wired, PD3.0, QC3+ 18W reverse wired Bypass charging",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Gray, Purple",
+        "Model": "25079RPDCG",
+        "SAR": null
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi 15C",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "description": "Smartphone Xiaomi Xiaomi Redmi 15C.",
+    "rating": null,
+    "coverImage": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15c.jpg",
+    "published": true,
+    "specs": {
+      "Jaringan": {
+        "Teknologi": "GSM / HSPA / LTE / 5G",
+        "Band 2G": "GSM 850 / 900 / 1800 / 1900",
+        "Band 4G LTE": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71 - International",
+        "Band 5G": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA - International"
+      },
+      "Identitas": {
+        "Tahun Rilis": "2025, September 18",
+        "Status": "Tersedia",
+        "Dimensi": "173.2 x 81.1 x 8.2 mm (6.82 x 3.19 x 0.32 in)",
+        "Berat": "211 g (7.44 oz)",
+        "Bahan": null,
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Layar": {
+        "Tipe": "IPS LCD, 120Hz, 810 nits (HBM)",
+        "Ukuran": "6.9 inches, 114.9 cm 2 (~81.8% screen-to-body ratio)",
+        "Resolusi": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Refresh Rate": "120Hz",
+        "Pelindung Layar": "Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, HyperOS 2",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memori": {
+        "Slot Kartu": "microSDXC (dedicated slot)",
+        "RAM": "4GB RAM, 6GB RAM, 8GB RAM",
+        "Penyimpanan Internal": "128GB, 256GB"
+      },
+      "Kamera Utama": {
+        "Konfigurasi": "Dual: 50 MP, f/1.8, 28mm (wide), 1/2.76\", 0.64μm, PDAF Auxiliary lens",
+        "Fitur": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Kamera Depan": {
+        "Resolusi": "8 MP, f/2.0, (wide), 1/4.0\", 1.12μm",
+        "Fitur": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Suara": {
+        "Speaker": "Yes",
+        "Jack 3.5mm": "Ya"
+      },
+      "Konektivitas": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "GPS": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG",
+        "Inframerah": null
+      },
+      "Sensor": {
+        "Sensor": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Baterai": {
+        "Tipe": "6000 mAh",
+        "Kapasitas": "6000 mAh",
+        "Pengisian Kabel": "33W wired, PD, 50% in 28 min 10W reverse wired",
+        "Pengisian Nirkabel": null
+      },
+      "Lainnya": {
+        "Warna": "Midnight Black, Mint Green, Dusk Purple, Moonlight Blue",
+        "Model": "2508CRN2BE, 2508CRN2BC, 2508CRN2BG",
+        "SAR": "0.99 W/kg (head) 0.95 W/kg (body)"
+      }
+    }
+  }
+]
